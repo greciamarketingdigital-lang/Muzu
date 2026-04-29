@@ -1,0 +1,11 @@
+{
+  "name": "muzu",
+  "version": "1.0.0",
+  "description": "Muzu - App de finanzas personales",
+  "scripts": {
+    "start": "serve . -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14"
+  }
+}
